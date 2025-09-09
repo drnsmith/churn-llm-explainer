@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+xgboost
+shap
+openai
+pandas
+scikit-learn
+fpdf
+matplotlib
