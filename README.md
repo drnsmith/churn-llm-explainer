@@ -1,4 +1,7 @@
 # Churn Risk Explainer — GPT + SHAP + Streamlit
+<p align="center">
+  <img src="./image.png" alt="Project Banner" width="400"/>
+</p>
 
 This AI-powered app predicts **customer churn risk** and explains it using **plain English**, powered by SHAP + OpenAI GPT (3.5/4).
 
